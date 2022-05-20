@@ -1,5 +1,5 @@
+//Program for printing all prime numbers.
 #include<iostream>
- 
 using namespace std;
    
 int main(){
