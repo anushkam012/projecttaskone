@@ -1,3 +1,4 @@
+//write programs, such that each pattern should print on the basis of given input 'n' when n = count of alphabets.
 #include<iostream> 
 using namespace std; 
  
